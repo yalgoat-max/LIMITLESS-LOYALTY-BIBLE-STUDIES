@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Who built the ark?",
+    "answer": "Noah",
+    "incorrect": ["Moses","Abraham","David"]
+  },
+  {
+    "question": "Who led the Israelites out of Egypt?",
+    "answer": "Moses",
+    "incorrect": ["Aaron","Joseph","Samuel"]
+  },
+  {
+    "question": "Which king wrote many of the Psalms?",
+    "answer": "David",
+    "incorrect": ["Solomon","Saul","Hezekiah"]
+  },
+  {
+    "question": "Who was thrown into the lion's den?",
+    "answer": "Daniel",
+    "incorrect": ["Elijah","Jonah","Jeremiah"]
+  },
+  {
+    "question": "Who interpreted Pharaoh's dreams?",
+    "answer": "Joseph",
+    "incorrect": ["Daniel","Samuel","Gideon"]
+  }
+]
