@@ -1,0 +1,7 @@
+[
+  {"name":"Moses","clue":"Led the Exodus and received the Ten Commandments.","incorrect":["Paul","Noah"]},
+  {"name":"Ruth","clue":"Loyal daughter-in-law who appears in a short book bearing her name.","incorrect":["Esther","Hannah"]},
+  {"name":"David","clue":"Shepherd boy who became king and wrote many psalms.","incorrect":["Saul","Solomon"]},
+  {"name":"Esther","clue":"Became queen and saved her people in Persia.","incorrect":["Deborah","Rebekah"]},
+  {"name":"Paul","clue":"Apostle to the Gentiles who wrote many New Testament letters.","incorrect":["Peter","John"]}
+]
